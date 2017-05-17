@@ -1,0 +1,3 @@
+compile - make
+test - ./test.sh
+execure - ./prolog
